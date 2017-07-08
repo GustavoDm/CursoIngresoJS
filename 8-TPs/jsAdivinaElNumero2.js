@@ -19,7 +19,7 @@ function comenzar()
 {
 	//Genero el número RANDOM entre 1 y 100
 numeroSecreto=Math.floor(Math.random()*100)+1;
-console.log(numeroSecreto)	 
+  console.log(numeroSecreto);
 	
 
 }
@@ -28,7 +28,7 @@ function verificar()
 {
 document.getElementById("intentos").value=contadorIntentos
 contadorIntentos=contadorIntentos+1;
-if(numerosecreto==numProb&&contadorIntentos=1)   
+if(numerosecreto==numProb)   
 {
 	alert("usted es psiquico")
 }	
