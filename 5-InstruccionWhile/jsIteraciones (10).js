@@ -13,6 +13,9 @@ function Mostrar()
 	}
 
 
+	//var numuno=prompt("ingrese numero 1")
+
+
 
 
 }//FIN DE LA FUNCIÓN
