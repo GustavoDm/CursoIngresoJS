@@ -9,5 +9,29 @@ e.	Se pedirán un número positivo y se mostrará la cantidad de números Primos
 */
 function ComenzarIngreso () 
 {
- 	
+ var numero = document.getElementById("numero").value	
+    
+}
+
+function numerosPares()
+{
+for(i=0;i<=num;i++)
+{
+    
+}
+}
+
+function numerosImpares()
+{
+
+}
+
+function numerosDivisibles()
+{
+
+}
+
+function verificarPrimo()
+{
+
 }

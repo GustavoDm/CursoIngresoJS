@@ -11,7 +11,7 @@ function Mostrar() {
 		num = parseInt(prompt("ingrese un numero"));
 		console.log(num)
 		while (isNaN(num)) {
-			num = parseInt(prompt("Numero incorrecto pro favor ingrese otro"));
+			num = parseInt(prompt("Numero incorrecto por favor ingrese otro"));
 	
 		}
 		acumulador += num;
